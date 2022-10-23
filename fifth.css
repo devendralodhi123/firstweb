@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+body {
+  position: relative;
+  align-items: center;
+  background: #23242a;
+}
+.box {
+  width: 100%;
+  position: relative;
+  font-size: 35px;
+}
+
+h3{
+  padding-top: 150px;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  color: #45f3ff;
+}
+p{
+  color: #45f3ff;
+}
+span{
+  width: auto;
+  padding-top: 20px;
+  color: #45f3ff;
+  
+}
+.inputbox input{
+  position: relative;
+  width: 300px;
+  margin: 35px;
+  padding: 10px 250px;
+}
+
+.submit{
+  position: relative;
+  color: black;
+  background: #45f3ff;
+  padding: 15px 400px;
+  border-radius: 8px;
+  font-size: 28px;
+  font-weight: 500px;
+  align-items:center;
+  margin-top: 30px;
+}
